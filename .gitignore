@@ -1,0 +1,6 @@
+#ignore folder
+directory_handling/a/
+directory_handling/b/
+
+# ignore system files
+.DS_store
